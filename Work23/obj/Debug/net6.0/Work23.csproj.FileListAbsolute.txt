@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\bin\Debug\net6.0\Work23.exe
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\bin\Debug\net6.0\Work23.deps.json
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\bin\Debug\net6.0\Work23.runtimeconfig.json
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\bin\Debug\net6.0\Work23.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\bin\Debug\net6.0\Work23.pdb
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\refint\Work23.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.pdb
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\Work23.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 3\Seminar_3\Work23\obj\Debug\net6.0\ref\Work23.dll
